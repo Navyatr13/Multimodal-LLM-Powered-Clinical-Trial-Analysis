@@ -1,0 +1,20 @@
+[
+    {
+        "trial_id": "NCT12345",
+        "title": "Heart Disease Drug Trial",
+        "text": "This clinical trial evaluates the effect of Drug A on reducing heart disease risks. The study monitored 1,000 patients over 12 months, analyzing cholesterol levels, blood pressure, and overall cardiovascular health outcomes.",
+        "image_path": "ecg_scan_1.jpg"
+    },
+    {
+        "trial_id": "NCT67890",
+        "title": "Cancer Immunotherapy Study",
+        "text": "This study tests the effectiveness of a novel immunotherapy treatment for stage 3 lung cancer. Tumor regression and patient immune response are key metrics being analyzed.",
+        "image_path": "tumor_scan_1.png"
+    },
+    {
+        "trial_id": "NCT11121",
+        "title": "Diabetes Management with Insulin Pump",
+        "text": "A clinical trial investigating the impact of automated insulin pumps on long-term glucose stability in Type 1 diabetic patients.",
+        "image_path": "glucose_chart_1.jpg"
+    }
+]
